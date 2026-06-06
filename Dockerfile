@@ -1,4 +1,4 @@
-## Base image
+## Base img
 FROM python:3.12-slim
 
 # Working directory
